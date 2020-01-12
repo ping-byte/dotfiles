@@ -1,2 +1,2 @@
-# dotfiles
-.config/home
+#dotfiles
+config ~/.config
